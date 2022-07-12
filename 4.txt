@@ -1,0 +1,12 @@
+git commit -m "first  commit adding 1.txt.save and 2.txt"
+
+
+Later I joined a company called Xavvy Software solution. It's a consulting company 
+
+And then I moved to a company called ICON TILES from the ICON SOFTWARE SOLUTIONS PRIVATE LIMITED group.
+
+Icon tiles is a Startup eCommerce site in the UK
+
+We worked on the Strategy of sales, Digital marketing, Procuring tiles from Morbi, On imports and exports, web development, using the AWS as the mainstream, and Magento tool as the E-commerce site.
+
+This is all about myself and my career for the past 2.5 years..
